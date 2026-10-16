@@ -2,3 +2,7 @@ __pycache__/
 .vscode/
 .venv/
 
+# model weights, training checkpoints and plots
+checkpoints/
+*.pth
+*.safetensors
